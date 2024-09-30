@@ -72,8 +72,8 @@ const Desktop = ({ navItems, logo, searchbar, loading }: Props) => (
             <Image
               src={logo.src}
               alt={logo.alt}
-              width={logo.width || 100}
-              height={logo.height || 23}
+              width={logo.width || 200}
+              height={logo.height || 46}
             />
           </a>
         </div>

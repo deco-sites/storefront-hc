@@ -1,0 +1,45 @@
+{
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "alerts": [
+    "<p>Test alert</p>",
+    "<p>alerta 2 teste</p>"
+  ],
+  "navItems": [
+    {
+      "children": [],
+      "image": []
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "image": [],
+              "children": []
+            }
+          ],
+          "additionalType": "teste",
+          "identifier": "testee",
+          "name": "teste",
+          "url": "djvdjhfbjdfj"
+        }
+      ],
+      "image": []
+    }
+  ],
+  "searchbar": {
+    "placeholder": "O que você procura?",
+    "loader": {
+      "__resolveType": "resolved",
+      "data": {
+        "searches": [],
+        "products": []
+      }
+    }
+  },
+  "logo": {
+    "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/storefront-hc/0767c240-3158-4951-b640-d1b76cb7ac09/logo2023-testes8.png",
+    "alt": "Logo "
+  },
+  "loading": "eager"
+}
